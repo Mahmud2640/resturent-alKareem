@@ -20,4 +20,4 @@ const firestore = getFirestore(app);
 const storage = getStorage(app);
 const analytics = getAnalytics(app);
 
-export { app, firestore, storage };
+export { app, firestore, storage, analytics };
